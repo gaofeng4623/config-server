@@ -1,0 +1,5 @@
+spring:
+  cloud:
+    user:
+      name: zhangsan
+      age: 23
